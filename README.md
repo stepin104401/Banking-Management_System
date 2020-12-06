@@ -4,4 +4,5 @@
 
 ![cppcheck-action](https://github.com/stepin104401/Banking-Management_System/workflows/cppcheck-action/badge.svg?branch=main)
 ![C/C++ CI](https://github.com/stepin105361/calc/workflows/C/C++%20CI/badge.svg)
+![Valgrind](https://github.com/stepin104401/Banking-Management_System/workflows/Valgrind/badge.svg)
 
